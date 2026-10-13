@@ -348,5 +348,5 @@ http://localhost:5173
 
 ## 🙌 Author
 
-Built by **Aparna** as a FullStack Intern Coding Challenge project.
+Built by **Aparna** 
 
